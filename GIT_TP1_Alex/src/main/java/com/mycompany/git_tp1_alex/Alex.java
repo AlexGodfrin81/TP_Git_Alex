@@ -11,4 +11,5 @@ package com.mycompany.git_tp1_alex;
  */
 public class Alex {
     // Coucou, ici Alex
+    // Bonjour, ici Joffrey
 }
