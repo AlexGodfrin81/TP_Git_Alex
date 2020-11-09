@@ -13,4 +13,6 @@ public class Alex {
     // Coucou, ici Alex
     // Bonjour, ici Joffrey
     // Cette fois-ci je crée un conflit ici.
+    
+    // Création d'un conflit
 }
